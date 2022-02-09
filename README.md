@@ -63,7 +63,7 @@
 - git pull origin main --allow-unrelated-histories --> combines local with remote repo.
 
 ---
-##License & copyright
+License & copyright
 
 &copy; Amrit Bohara, Software Developer
 
