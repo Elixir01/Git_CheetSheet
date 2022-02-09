@@ -1,7 +1,13 @@
 # Git_CheetSheet
-
+---
 **Version 1.0.0**
 
+> :warning: **Warning:** Do not push the big red button.
+
+> :memo: **Note:** Sunrises are beautiful.
+
+> :bulb: **Tip:** Remember to appreciate the little things in life.
+---
 - git init --> if you do in the project then it will create history record of that project.
 
 - git status --> current project status, if files are unstaged, added, or commited.
