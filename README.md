@@ -9,7 +9,7 @@
 > :bulb: **Tip:** Remember to appreciate the little things in life.
 ---
 
-[![Build Status](https://dillinger.io/)
+[![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://dillinger.io/)
 - git init --> if you do in the project then it will create history record of that project.
 
 - git status --> current project status, if files are unstaged, added, or commited.
